@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Primer App UPRB</string>
+    <string name="student_id">ID de Estudentiante:</string>
+    <string name="student_name">Nombre de Estudiante:</string>
+    <string name="concentration">Concentracion:</string>
+    <string name="phone_number">Numero de Telefono:</string>
+    <string name="save">Guardar</string>
+    <string name="reset">Resetear</string>
+    <string name="save_positive_feedback">Guardado Exitosamente</string>
+    <string name="save_negative_feedback">No se pudo guardar la informacion</string>
+
+    <string-array name="concentration_list">
+        <item>Ciencias de Computadoras</item>
+        <item>Administración de Empresas</item>
+        <item>Ingenieria</item>
+        <item>Biologia</item>
+        <item>Quimica</item>
+    </string-array>
+</resources>
